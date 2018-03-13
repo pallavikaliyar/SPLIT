@@ -1,0 +1,19 @@
+obj_sky/timetable-aggregate.o: \
+ /home/user/contiki-2.7/examples/hello-world/../../core/sys/timetable-aggregate.c \
+ /home/user/contiki-2.7/examples/hello-world/../../core/./sys/timetable-aggregate.h \
+ /home/user/contiki-2.7/examples/hello-world/../../core/./sys/timetable.h \
+ /home/user/contiki-2.7/examples/hello-world/../../core/./sys/cc.h \
+ /home/user/contiki-2.7/examples/hello-world/../../platform/sky/./contiki-conf.h \
+ /home/user/contiki-2.7/examples/hello-world/../../platform/sky/./platform-conf.h \
+ /home/user/contiki-2.7/examples/hello-world/../../cpu/msp430/./msp430def.h \
+ /home/user/contiki-2.7/examples/hello-world/../../core/./sys/rtimer.h \
+ /home/user/contiki-2.7/examples/hello-world/../../cpu/msp430/./rtimer-arch.h
+ /home/user/contiki-2.7/examples/hello-world/../../core/sys/timetable-aggregate.c :
+ /home/user/contiki-2.7/examples/hello-world/../../core/./sys/timetable-aggregate.h :
+ /home/user/contiki-2.7/examples/hello-world/../../core/./sys/timetable.h :
+ /home/user/contiki-2.7/examples/hello-world/../../core/./sys/cc.h :
+ /home/user/contiki-2.7/examples/hello-world/../../platform/sky/./contiki-conf.h :
+ /home/user/contiki-2.7/examples/hello-world/../../platform/sky/./platform-conf.h :
+ /home/user/contiki-2.7/examples/hello-world/../../cpu/msp430/./msp430def.h :
+ /home/user/contiki-2.7/examples/hello-world/../../core/./sys/rtimer.h :
+ /home/user/contiki-2.7/examples/hello-world/../../cpu/msp430/./rtimer-arch.h :
